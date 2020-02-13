@@ -13,7 +13,6 @@ function cake(x, y){
     return "That was close!";
 }
 
-
 alert(cake(900, 'abcdef'));
 alert(cake(56, 'ifkhchlhfd'));
 alert(cake(256, 'aaaaaddddr'));
