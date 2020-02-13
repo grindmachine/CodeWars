@@ -1,5 +1,5 @@
 function findDup( arr ){
-    
+
     for(let i = 1; i < arr.length; i++) {
         let counterIncludes = 0;
 
@@ -12,4 +12,4 @@ function findDup( arr ){
     }
     }
 
-    alert([1, 5, 3, 8, 2, 4].sort());
+    alert(new Number(12));
