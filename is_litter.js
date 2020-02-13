@@ -1,5 +1,5 @@
 String.prototype.isLetter = function() {
-    return /^[a-zA-Z]{1}$/.test(this);
+    return /^[aeiou]{1}$/i.test(this);
     };
 
     alert("".isLetter());
